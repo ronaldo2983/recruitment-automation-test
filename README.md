@@ -1,4 +1,4 @@
-# Candidate Recruitment Automation
+# Automatización del reclutamiento de candidatos
 
 Este proyecto automatiza el proceso de reclutamiento de candidatos utilizando **Selenium WebDriver** para interactuar con el navegador y **Behave** para pruebas automatizadas siguiendo el estilo de desarrollo basado en comportamiento (**BDD**).
 
